@@ -1,5 +1,5 @@
 
-num = int(input('请输入一个数字:'))
+num = int(input('please enter your number:'))
 def binary_search(list,item):
     low = 0
     high = len(list)-1
